@@ -1,9 +1,10 @@
 import "./App.css";
+import AppRouter from "./routers";
 
 function App() {
   return (
     <>
-      <div className="text-2xl text-rose-500 text-center">test</div>
+      <AppRouter />
     </>
   );
 }
