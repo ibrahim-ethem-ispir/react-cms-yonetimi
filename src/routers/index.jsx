@@ -10,7 +10,7 @@ import Register from "../pages/auth/Register";
 import PageRouters from "./PageRouters";
 
 const index = () => {
-  const isAuthenticated = true;
+  const isAuthenticated = false;
 
   return (
     <>
